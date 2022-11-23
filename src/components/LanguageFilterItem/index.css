@@ -1,5 +1,4 @@
 .language-btn {
-  flex-shrink: 0;
   color: #0f172a;
   background-color: transparent;
   font-family: 'Roboto';
@@ -11,6 +10,7 @@
   padding: 16px;
   padding-top: 4px;
   padding-bottom: 4px;
+  flex-shrink: 0;
   cursor: pointer;
   outline: none;
 }
